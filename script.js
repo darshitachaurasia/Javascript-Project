@@ -5,4 +5,4 @@ function featureGreeting(name){
     console.log(greetingMessage);
 }
 
-featureGreeting('Namita');
+featureGreeting('Rishi');
